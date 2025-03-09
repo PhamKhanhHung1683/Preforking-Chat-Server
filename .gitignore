@@ -1,0 +1,5 @@
+/server/.vscode/
+/client/.vscode/
+
+/server/build/
+/client/client
