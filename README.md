@@ -10,7 +10,7 @@ Linux Programming
 <br>```make```
 
 - Build client
-<br>```cd./client```
+<br>```cd ./client```
 <br>```gcc main.c -o client```
 
 - Run
